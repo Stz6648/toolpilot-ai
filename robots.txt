@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://stz6648.github.io/toolpilot-ai/sitemap.xml
